@@ -1,0 +1,8 @@
+Implement a persistent shopping cart and checkout functionality
+
+Integrate a CartContext for managing shopping cart state, add a dedicated checkout page, and establish backend routes for cart operations and booking creation.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 5b64cd80-33a8-42e5-8870-a9f764b2624f
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/cafc590d-4a3b-4fc2-94a1-a53d637b06c8/5b64cd80-33a8-42e5-8870-a9f764b2624f/IPaDpYE
