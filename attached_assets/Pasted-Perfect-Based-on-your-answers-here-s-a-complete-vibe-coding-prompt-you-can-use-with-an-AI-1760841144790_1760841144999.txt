@@ -1,0 +1,64 @@
+Perfect 👌
+Based on your answers, here’s a **complete “vibe coding prompt”** you can use with an AI web builder or code generator (like V0, Framer AI, Replit’s Ghostwriter, or even ChatGPT’s code canvas).
+This prompt is structured to give you a clean, luxurious, multilingual, fast website with booking and payment features, and is fully editable later.
+
+---
+
+### 🟡 **VIBE CODING PROMPT**
+
+> 🚀 **Build a fully responsive, multilingual tourism website** for a luxury travel company called **“Along The Nile.”**
+>
+> 🧭 **Website Purpose:**
+>
+> * Inform international travelers about the company, its tours, trips, and packages.
+> * Allow users to **book and pay online**.
+>
+> 🧱 **Pages & Structure:**
+>
+> * **Home Page** — Hero section with luxury Egyptian visuals, tagline, CTA buttons (e.g., “Explore Tours,” “Book Now”), featured experiences slider, multilingual language switcher, and footer with quick links.
+> * **About Us Page** — Company story, values, mission, high-quality images, maybe timeline.
+> * **Our Experiences (Main Page)** — Introduction section with links to 3 subpages:
+>
+>   * **Our Tours** (subpages for each tour)
+>   * **Our Trips** (subpages for each trip)
+>   * **Our Packages** (subpages for each package)
+>     Each subpage should have: title, detailed description, image slider, price, duration, highlights, and a **Booking Form**.
+> * **Contact Us Page** — Contact form, embedded Google Map, company contact info, and social media links.
+> * **Cart Page** — Users can view their selected trips/tours/packages and proceed to secure checkout.
+>
+> ✨ **Design Style:**
+>
+> * **Luxurious** with **Egyptian vibes** — think gold and deep blue tones, elegant typography, subtle patterns inspired by Egyptian art.
+> * Clean, modern layout optimized for mobile.
+> * Smooth transitions, parallax effects or subtle animations to give a premium feel.
+>
+> 🌐 **Multilingual Support:**
+>
+> * English + Arabic (with language switcher in the header).
+> * All pages and content should support RTL layout for Arabic.
+>
+> 📌 **Features:**
+>
+> * **Booking Form** integrated into each trip/tour/package page (collect name, email, number of travelers, date, and special requests).
+> * **Image Slider** for every trip/tour/package to showcase photos.
+> * **Online Payment Integration** (e.g., Stripe, PayPal, or local payment gateways) on checkout/cart page.
+> * Editable CMS or admin dashboard for adding new tours, trips, and packages later without coding.
+> * SEO-friendly structure and fast loading performance on mobile.
+>
+> ⚡ **Tech Stack Suggestion (Flexible):**
+> You may use Next.js, Vue, or any modern framework that supports SSR/SSG for speed, plus a CMS like Sanity, Strapi, or a headless WordPress for content management. Tailwind CSS for styling.
+>
+> 📱 **Mobile-first:**
+>
+> * Fully responsive layout with emphasis on fast loading, optimized images, lazy loading for sliders, and smooth navigation.
+>
+> 🛠️ **Additional Requirements:**
+>
+> * Easy to update and edit later (CMS or clear code structure).
+> * Accessible, SEO-optimized.
+> * Use clear navigation and breadcrumbs for nested trip/tour pages.
+
+---
+
+Would you like me to generate **starter code (e.g., Next.js + Tailwind)** for this website structure so you can build on it?
+(✅ Includes folder structure, pages, routing, and dummy components.)
